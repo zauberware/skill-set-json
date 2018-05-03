@@ -1,254 +1,256 @@
-[  
-  {  
-    "name":"Akquisitionsstärke",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Analysefähigkeit",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Anpassungsfähigkeit",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Ausführungsbereitschaft",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Belastbarkeit",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Beratungsfähigkeit",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Beziehungsmanagement/ Netzwerken ",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Charisma",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Disziplin",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Durchsetzungsvermögen",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Empathie",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Engagement und Einsatzbereitschaft",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Entscheidungsfähigkeit",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Feedback geben",
-    "category":"Beratungsfähigkeit"
-  },
-  {  
-    "name":"Flexibilität",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Fähigkeit zur Selbstreflexion",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Führungskompetenz",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Ganzheitliches Denken ",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Geduld",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Genderkompetenz/ Diversity",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Glaubwürdigkeit",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Hilfsbereitschaft",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Identifikation mit Wertesystem/ Aufgaben",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Initiative und Tatkraft",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Integrationsfähigkeit ",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Interkulturelle Kompetenz",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Kommunikationsfähigkeit",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Konfliktlösungsfähigkeit",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Konzeptentwicklung",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Kooperationsfähigkeit",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Kreativitätstechniken",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Kritikfähigkeit",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Kundenorientierung",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Lebenslanges Lernen",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Lernbereitschaft",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Logisches Denken",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Lösungsorientiert",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Menschenkenntnis",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Moderations- und Gesprächstechniken",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Motivation",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Mündliche und schriftliche Ausdrucksfähigkeit ",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Offenheit",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Organisationsfähigkeit",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Projektdurchführung",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Selbstständigkeit",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Selbstverantwortung",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Sicheres Auftreten ",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Sorgfalt",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Stressbewältigung und Zeitmanagement ",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Teamfähigkeit",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Toleranz",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Transferfähigkeit",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Umweltbewusstsein",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Verantwortungsbewusstsein",
-    "category":"Soziale Kompetenzen"
-  },
-  {  
-    "name":"Verhandlungen erfolgreich führen können",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Verwaltungserfahrung",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Veränderungskompetenz",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Visualisierungs- und Präsentationstechniken ",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Wissensmanagement",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Zukunftsfähigkeit- vorausschauendes Denken",
-    "category":"Methodische Kompetenzen"
-  },
-  {  
-    "name":"Zuverlässigkeit",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Überblick haben",
-    "category":"Persönliche Kompetenzen"
-  },
-  {  
-    "name":"Überzeugungsfähigkeit",
-    "category":"Soziale Kompetenzen"
-  }
-]
+{
+  "data":[
+    {  
+      "name":"Akquisitionsstärke",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Analysefähigkeit",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Anpassungsfähigkeit",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Ausführungsbereitschaft",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Belastbarkeit",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Beratungsfähigkeit",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Beziehungsmanagement/ Netzwerken ",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Charisma",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Disziplin",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Durchsetzungsvermögen",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Empathie",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Engagement und Einsatzbereitschaft",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Entscheidungsfähigkeit",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Feedback geben",
+      "category":"Beratungsfähigkeit"
+    },
+    {  
+      "name":"Flexibilität",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Fähigkeit zur Selbstreflexion",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Führungskompetenz",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Ganzheitliches Denken ",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Geduld",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Genderkompetenz/ Diversity",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Glaubwürdigkeit",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Hilfsbereitschaft",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Identifikation mit Wertesystem/ Aufgaben",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Initiative und Tatkraft",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Integrationsfähigkeit ",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Interkulturelle Kompetenz",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Kommunikationsfähigkeit",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Konfliktlösungsfähigkeit",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Konzeptentwicklung",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Kooperationsfähigkeit",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Kreativitätstechniken",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Kritikfähigkeit",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Kundenorientierung",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Lebenslanges Lernen",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Lernbereitschaft",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Logisches Denken",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Lösungsorientiert",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Menschenkenntnis",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Moderations- und Gesprächstechniken",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Motivation",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Mündliche und schriftliche Ausdrucksfähigkeit ",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Offenheit",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Organisationsfähigkeit",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Projektdurchführung",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Selbstständigkeit",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Selbstverantwortung",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Sicheres Auftreten ",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Sorgfalt",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Stressbewältigung und Zeitmanagement ",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Teamfähigkeit",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Toleranz",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Transferfähigkeit",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Umweltbewusstsein",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Verantwortungsbewusstsein",
+      "category":"Soziale Kompetenzen"
+    },
+    {  
+      "name":"Verhandlungen erfolgreich führen können",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Verwaltungserfahrung",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Veränderungskompetenz",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Visualisierungs- und Präsentationstechniken ",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Wissensmanagement",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Zukunftsfähigkeit- vorausschauendes Denken",
+      "category":"Methodische Kompetenzen"
+    },
+    {  
+      "name":"Zuverlässigkeit",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Überblick haben",
+      "category":"Persönliche Kompetenzen"
+    },
+    {  
+      "name":"Überzeugungsfähigkeit",
+      "category":"Soziale Kompetenzen"
+    }
+  ]
+}
