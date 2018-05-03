@@ -1,256 +1,256 @@
-{
-  "data":[
-    {
-      "Name": "Acquisition skills",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Analytical ability",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Adaptability",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Execution willingness",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Resilience",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Advice ability",
-      "category": "Social Competences"
-    },
-    {
-      "name": "Relationship Management / Networks",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Charisma",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Discipline",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Assertiveness",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Empathy",
-      "category": "Social Competences"
-    },
-    {
-      "name": "Commitment and dedication",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Decisiveness",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Give feedback",
-      "Category": "Advice ability",
-    },
-    {
-      "Name": "Flexibility",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Self-reflection ability",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Leadership",
-      "category": "Methodological Competences"
-    },
-    {
-      "name": "Holistic thinking",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Patience",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Gender competence / diversity",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Credibility",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Helpfulness",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Identification with value system / tasks",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Initiative and energy",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Ability to integrate",
-      "category": "Social Competences"
-    },
-    {
-      "name": "Intercultural Competence",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Communication skills",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Conflict resolution ability",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Concept Development",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Ability to cooperate",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Creativity Techniques",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Critical faculties",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Customer focus",
-      "category": "Social Competences"
-    },
-    {
-      "name": "Lifelong learning",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Willingness to learn",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Logical thinking",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Solution-oriented",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "People skills",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Moderation and conversation techniques",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Motivation",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Oral and written expressiveness",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Openness",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Organizational capacity",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Project implementation",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Independence",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Personal responsibility",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Confident appearance",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Care",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Stress Management and Time Management",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Teamwork",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Tolerance",
-      "category": "Social Competences"
-    },
-    {
-      "Name": "Transferability",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Environmental Awareness",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Sense of responsibility",
-      "category": "Social Competences"
-    },
-    {
-      "name": "Successfully negotiate",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Management experience",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Change capacity",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Visualization and presentation techniques",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Knowledge Management",
-      "category": "Methodological Competences"
-    },
-    {
-      "name": "Sustainability - anticipatory thinking",
-      "category": "Methodological Competences"
-    },
-    {
-      "Name": "Reliability",
-      "category": "Personal Competences"
-    },
-    {
-      "name": "Having the overview",
-      "category": "Personal Competences"
-    },
-    {
-      "Name": "Persuasiveness",
-      "category": "Social Competences"
-    }
+{  
+  "data":[  
+    {  
+      "name":"Acquisition skills",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Analytical ability",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Adaptability",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Execution willingness",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Resilience",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Advice ability",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Relationship Management / Networks",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Charisma",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Discipline",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Assertiveness",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Empathy",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Commitment and dedication",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Decisiveness",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Give feedback",
+      "category":"Advice ability"
+    },
+    {  
+      "name":"Flexibility",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Self-reflection ability",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Leadership",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Holistic thinking",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Patience",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Gender competence / diversity",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Credibility",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Helpfulness",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Identification with value system / tasks",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Initiative and energy",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Ability to integrate",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Intercultural Competence",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Communication skills",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Conflict resolution ability",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Concept Development",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Ability to cooperate",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Creativity Techniques",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Critical faculties",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Customer focus",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Lifelong learning",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Willingness to learn",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Logical thinking",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Solution-oriented",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"People skills",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Moderation and conversation techniques",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Motivation",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Oral and written expressiveness",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Openness",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Organizational capacity",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Project implementation",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Independence",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Personal responsibility",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Confident appearance",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Care",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Stress Management and Time Management",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Teamwork",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Tolerance",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Transferability",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Environmental Awareness",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Sense of responsibility",
+      "category":"Social Competences"
+    },
+    {  
+      "name":"Successfully negotiate",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Management experience",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Change capacity",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Visualization and presentation techniques",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Knowledge Management",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Sustainability - anticipatory thinking",
+      "category":"Methodological Competences"
+    },
+    {  
+      "name":"Reliability",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Having the overview",
+      "category":"Personal Competences"
+    },
+    {  
+      "name":"Persuasiveness",
+      "category":"Social Competences"
+    }
   ]
 }
